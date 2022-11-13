@@ -3,11 +3,19 @@
 Hecha por Maria Calvo Torres, Pedro Bereilh y Gonzalo Valdez Casis
 
 ## Como ejecutar el programa
+Debemos tener instalado Apache Ant para comprobar si lo tenemos usar el comando:
+
+````
+ant -version 
+`````
+
 Para ejecutar la clase Main.java usar el comando:
 
 ````
 ant run_main
 ````
+
+> **_NOTA:_**  Ejecutar desde dentro de la carpeta java-algorithms-implementation.
 
 ## Grafo donde se genera el camnino 
 - Queremos ir de v1 a v10 y usamos el algoritmo A*
