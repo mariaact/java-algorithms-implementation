@@ -25,7 +25,7 @@ ant run_main
 ## Preguntas sobre la práctica
 
 **¿Qué variable representa la lista ABIERTA?**
-- Respuesta
+- La variable openSet en la linea 44
 
 **¿Qué variable representa la función g?**
 - Respuesta
